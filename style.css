@@ -1,3 +1,6 @@
+font-family: ;ComicSans
+src: url(fonts/ComicSans.ttf);
+}
 html {
   background-color: grey;
 }
@@ -5,6 +8,4 @@ html {
 #sahara {
   color: orange;
 }
-#sahara {
-  color: Dessert Orange
-}
+
